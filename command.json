@@ -1,0 +1,10 @@
+{
+  "action": [
+    "turn on",
+    "turn off"
+  ],
+  "object": [
+    "lamp",
+    "air conditioner"
+  ]
+}
